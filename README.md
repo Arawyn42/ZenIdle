@@ -2,7 +2,9 @@
 
 This is a little idle game developped with Godot Engine. Currently, this project is not complete and is on Pause state.
 
-Currently working:
+For Window users, download the .exe, for Mac users, download the .zip.
+
+## Currently working:
 - Zen Machine Tab
 - Options Tab
 - Transcendance Tab
@@ -10,7 +12,7 @@ Currently working:
 - Save / Load games
 - Achievements and goals display
 
-Not implemented yet:
+## Not implemented yet:
 - Achievements Tab
 - Stats Tab
 - Menu Tab
